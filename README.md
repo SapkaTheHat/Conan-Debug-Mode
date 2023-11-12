@@ -1,4 +1,4 @@
-# Conan-The-Mighty-Pig-Debug-Mode b.1.2
+# Conan-The-Mighty-Pig-Debug-Mode b1.2
 SapkaTheHat Presents: Conan The Mighty Pig DEBUG MODE
 
 Please send me any bug reports with detailed descriptions on how to recreate them so I can try to fix it. Thank you!
