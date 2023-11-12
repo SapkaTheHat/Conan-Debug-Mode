@@ -31,13 +31,8 @@ CONTROLS:
 
 CHANGELOG:
 
-
-Version b1.2
-
-
-
 11/12/2023 1:57 CST
-Version b1.1.1
+Version b1.2
 - updated main menu
 - updated credits menu
 - added easter egg
