@@ -2,33 +2,6 @@ SapkaTheHat Presents: Conan The Mighty Pig DEBUG MODE
 
 Please send me any bug reports with detailed descriptions on how to recreate them so I can try to fix it. Thank you!
 
-
-
-CONTROLS:
-
-"Z" - Toggles Camera Lock
-"F" - Toggles Truffle Respawn Spots (On by default)
-"Numpad8" - Increase Move Speed
-"Numpad9" - Decrease Move Speed
-"Numpad5" - Increase Gravity
-"Numpad6" - Decrease Gravity
-"Numpad1" - Zero Gravity (Required for NoClip)
-"Numpad0" - Reset Physics
-"Shift" - Toggle NoClip (Zero Gravity Required)
-"1" - infinite hot pepper
-"2" - infinite green bean
-"3" - infinite acorn
-"4" - infinite sunflower
-"5" - infinite mushroom
-"6" - infinite garlic
-"7" - infinite clover
-"Q" - respawn truffles
-"B" - toggle Flixel Debug
-"M" - toggle GUI
-
-
-
-
 CHANGELOG:
 
 11/18/2023 19:24 CST
@@ -57,6 +30,47 @@ Version b1.0
 - added truffle respawn markers
 - added physics control
 - added noclip
+
+
+CONTROLS:
+
+"Z" - Toggles Camera Lock
+
+"F" - Toggles Truffle Respawn Spots (On by default)
+
+"Numpad8" - Increase Move Speed
+
+"Numpad9" - Decrease Move Speed
+
+"Numpad5" - Increase Gravity
+
+"Numpad6" - Decrease Gravity
+
+"Numpad1" - Zero Gravity (Required for NoClip)
+
+"Numpad0" - Reset Physics
+
+"Shift" - Toggle NoClip (Zero Gravity Required)
+
+"1" - infinite hot pepper
+
+"2" - infinite green bean
+
+"3" - infinite acorn
+
+"4" - infinite sunflower
+
+"5" - infinite mushroom
+
+"6" - infinite garlic
+
+"7" - infinite clover
+
+"Q" - respawn truffles
+
+"B" - toggle Flixel Debug
+
+"M" - toggle GUI
 
 
 
