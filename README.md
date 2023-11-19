@@ -1,4 +1,3 @@
-# Conan-The-Mighty-Pig-Debug-Mode b1.2
 SapkaTheHat Presents: Conan The Mighty Pig DEBUG MODE
 
 Please send me any bug reports with detailed descriptions on how to recreate them so I can try to fix it. Thank you!
@@ -24,12 +23,19 @@ CONTROLS:
 "6" - infinite garlic
 "7" - infinite clover
 "Q" - respawn truffles
-
+"B" - toggle Flixel Debug
+"M" - toggle GUI
 
 
 
 
 CHANGELOG:
+
+11/18/2023 19:24 CST
+Version b1.3
+- enabled Flixel debug 
+- added hide GUI toggle
+
 
 11/12/2023 1:57 CST
 Version b1.2
